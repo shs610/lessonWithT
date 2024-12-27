@@ -9,6 +9,10 @@ class Student {
 
 }
 
+class Grade {
+    
+}
+
 
 
 public class FinalUniversity {
